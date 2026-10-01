@@ -18,7 +18,7 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Public access and community use of logistics sites]]"
 auto_case_studies:
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Aycha Chambashala]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Julia Godard Lombard]]"

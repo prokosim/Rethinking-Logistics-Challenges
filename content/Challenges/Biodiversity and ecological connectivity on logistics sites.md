@@ -3,7 +3,7 @@ category: Ecology
 status: draft
 auto_case_studies:
   - "[[Adam Večeřa]]"
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Aycha Chambashala]]"
   - "[[Ece Yasar]]"
   - "[[Ilinca Maria Baciu]]"

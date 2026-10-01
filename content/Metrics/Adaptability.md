@@ -14,7 +14,7 @@ aliases:
 challenges:
   - "[[Adaptable and relocatable logistics structures]]"
 auto_case_studies:
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"

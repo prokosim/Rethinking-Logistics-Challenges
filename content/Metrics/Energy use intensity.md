@@ -15,7 +15,7 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
   - "[[Ilinca Maria Baciu]]"

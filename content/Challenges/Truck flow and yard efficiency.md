@@ -2,7 +2,7 @@
 category: Operations
 status: draft
 auto_case_studies:
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Aycha Chambashala]]"
   - "[[Hynek Hrabík]]"
   - "[[Vladi Kostecki]]"

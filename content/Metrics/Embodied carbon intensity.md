@@ -17,7 +17,7 @@ challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Ece Yasar]]"
   - "[[Hynek Hrabík]]"
   - "[[Ilinca Maria Baciu]]"

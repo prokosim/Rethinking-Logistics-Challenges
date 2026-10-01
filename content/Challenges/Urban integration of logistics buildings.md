@@ -3,7 +3,7 @@ category: Urban
 status: draft
 auto_case_studies:
   - "[[Adam Večeřa]]"
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Amy Naprstek]]"
   - "[[Aycha Chambashala]]"
   - "[[Elsa Hauksdottir]]"

@@ -14,7 +14,7 @@ Design decisions are trade-offs between metrics. These are the ones the students
 - Higher CapEx share (50% vs 40%) is accepted to reduce OpEx by 60% over 30 years, with a 12-year payback (life-cycle cost KPI).
 - Going vertical frees ~120,000 m² of ground for park and ecology but requires deep underground storage and parking (−24 m), which conflicts with the embodied-carbon strategy 'no underground / avoid deep foundations' listed under KPI 2.3.
 
-## [[Adela Berkowitz]]
+## [[Adéla Berkovitz]]
 
 - Splitting the mass into separate buildings is less financially efficient (cost) but gives human scale, better neighbourhood integration and passage for small animals (biodiversity / visual impact).
 - A linear logistics flow (processing efficiency, less forklift travel) blocks a bio-corridor through the plot, so ecological elements move to the perimeter (questionnaire).

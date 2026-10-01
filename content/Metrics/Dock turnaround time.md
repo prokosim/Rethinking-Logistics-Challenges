@@ -11,7 +11,7 @@ challenges:
   - "[[Truck flow and yard efficiency]]"
   - "[[Automation and operational efficiency of logistics]]"
 auto_case_studies:
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Hynek Hrabík]]"
 auto_tools: []
 ---

@@ -49,7 +49,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Native species richness]] | Count of native plant (or animal) species supported on site, from planting plan or survey. | [[Rhino.Ecologic]] | 4 |
 | [[Tree count and canopy cover]] | Number of trees (or crown area) on site ÷ site area; compared before and after the design. | [[Lands Design]] | 3 |
 
-**Case studies:** [[Adam Večeřa]], [[Adela Berkowitz]], [[Aycha Chambashala]], [[Ece Yasar]], [[Ilinca Maria Baciu]], [[Lindsay Daphne Macuja]], [[Sara Gani]]
+**Case studies:** [[Adam Večeřa]], [[Adéla Berkovitz]], [[Aycha Chambashala]], [[Ece Yasar]], [[Ilinca Maria Baciu]], [[Lindsay Daphne Macuja]], [[Sara Gani]]
 
 ## [[Embodied carbon and adaptive reuse of logistics buildings]]
 
@@ -136,7 +136,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Pedestrian–vehicle conflict points]] | Number of points where pedestrian routes cross truck or van routes, counted on the site plan; or share of routes that are fully separated. | — | 4 |
 | [[Worker safety incidents]] | Recorded incidents per year (or hazard zones per layout) in operational areas. | — | 3 |
 
-**Case studies:** [[Adela Berkowitz]], [[Eva Kažukolovaitė]], [[Lindsay Daphne Macuja]], [[Natalie Žižková]], [[Sara Gani]], [[Vladi Kostecki]]
+**Case studies:** [[Adéla Berkovitz]], [[Eva Kažukolovaitė]], [[Lindsay Daphne Macuja]], [[Natalie Žižková]], [[Sara Gani]], [[Vladi Kostecki]]
 
 ## [[Public access and community use of logistics sites]]
 
@@ -174,7 +174,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Truck throughput]] | Trucks handled per hour (or day), counted in a simulation or from operational data. | — | 2 |
 | [[Yard area per dock]] | Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis. | [[AutoTURN]] | 1 |
 
-**Case studies:** [[Adela Berkowitz]], [[Aycha Chambashala]], [[Hynek Hrabík]], [[Vladi Kostecki]]
+**Case studies:** [[Adéla Berkovitz]], [[Aycha Chambashala]], [[Hynek Hrabík]], [[Vladi Kostecki]]
 
 ## [[Urban integration of logistics buildings]]
 
@@ -190,7 +190,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Social interaction index]] | Observed or estimated number of people using the public spaces of the project per day. | — | 3 |
 | [[Walkability]] | Walk Score-type index, or a custom score of route continuity, crossings and destinations within walking distance. | — | 3 |
 
-**Case studies:** [[Adam Večeřa]], [[Adela Berkowitz]], [[Amy Naprstek]], [[Aycha Chambashala]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]], [[Ilinca Maria Baciu]], [[Julia Godard Lombard]], [[Julia Kopác]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Marek Nový]], [[Natalie Žižková]], [[Roshni Basu]], [[Sara Gani]], [[Sara Sulollari]], [[Vladi Kostecki]]
+**Case studies:** [[Adam Večeřa]], [[Adéla Berkovitz]], [[Amy Naprstek]], [[Aycha Chambashala]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]], [[Ilinca Maria Baciu]], [[Julia Godard Lombard]], [[Julia Kopác]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Marek Nový]], [[Natalie Žižková]], [[Roshni Basu]], [[Sara Gani]], [[Sara Sulollari]], [[Vladi Kostecki]]
 
 ## [[Visual impact and acceptance by neighbours]]
 

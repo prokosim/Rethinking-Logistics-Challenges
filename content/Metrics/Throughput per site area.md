@@ -12,7 +12,7 @@ challenges:
   - "[[Land take of logistics buildings]]"
   - "[[Automation and operational efficiency of logistics]]"
 auto_case_studies:
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Hynek Hrabík]]"
   - "[[Vladi Kostecki]]"
 auto_tools: []

@@ -2,7 +2,7 @@
 category: Safety
 status: draft
 auto_case_studies:
-  - "[[Adela Berkowitz]]"
+  - "[[Adéla Berkovitz]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Lindsay Daphne Macuja]]"
   - "[[Natalie Žižková]]"
