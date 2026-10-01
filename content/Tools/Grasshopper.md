@@ -19,7 +19,7 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Hynek Hrabík]]"
   - "[[Lindsay Daphne Macuja]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
 ---

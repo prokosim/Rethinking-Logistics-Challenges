@@ -6,7 +6,7 @@ auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Hynek Hrabík]]"
   - "[[Johannes Berger]]"
-  - "[[Julia Kopáč]]"
+  - "[[Julia Kopác]]"
 auto_metrics:
   - "[[Impervious surface ratio]]"
   - "[[Land take]]"

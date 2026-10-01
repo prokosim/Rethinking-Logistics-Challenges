@@ -68,12 +68,15 @@ function walk(dir, out = []) {
 export function loadKB() {
   const schema = loadSchema()
   const folderType = Object.fromEntries(Object.entries(schema.types).map(([t, d]) => [d.folder, t]))
-  const notes = walk(CONTENT).map((file) => {
+  const all = walk(CONTENT).map((file) => {
     const rel = path.relative(CONTENT, file).split(path.sep).join("/")
     const raw = fs.readFileSync(file, "utf8")
     const p = parseNote(raw)
     return { file, rel, raw, name: path.basename(file, ".md"), type: folderType[rel.split("/")[0]] ?? null, ...p, links: {} }
   })
+  // Notes with `draft: true` are ignored everywhere (and Quartz does not publish them).
+  const notes = all.filter((n) => n.data.draft !== true)
+  const drafts = all.filter((n) => n.data.draft === true)
 
   const byName = new Map()
   for (const n of notes) {
@@ -91,7 +94,7 @@ export function loadKB() {
         .map((name) => ({ name, note: find(name) }))
     }
   }
-  return { schema, notes, byName, find }
+  return { schema, notes, drafts, byName, find }
 }
 
 /** Compute the auto_ fields for every note: Map(note → {auto_field: [names]}) */

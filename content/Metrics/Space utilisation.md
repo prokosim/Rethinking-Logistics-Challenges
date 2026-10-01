@@ -12,7 +12,7 @@ challenges:
   - "[[Automation and operational efficiency of logistics]]"
   - "[[Land take of logistics buildings]]"
 auto_case_studies:
-  - "[[Adéla Berkovitz]]"
+  - "[[Adela Berkowitz]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
 auto_tools:

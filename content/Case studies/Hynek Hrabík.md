@@ -7,8 +7,7 @@ year: 2026
 location: "PPL central parcel hub, Hradec Králové, Czech Republic (as labelled in the portfolio; the questionnaire names PPL in Pardubice)"
 typology: Parcel cross-dock / automated e-commerce sorting hub (hub-and-spoke network, PPL as DHL subsidiary)
 status: draft
-aliases:
-  - Hynek Hrabik
+aliases: []
 challenges:
   - "[[Truck flow and yard efficiency]]"
   - "[[Land take of logistics buildings]]"

@@ -6,9 +6,9 @@ auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Ece Yasar]]"
   - "[[Hynek Hrabík]]"
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Marek Nový]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
 auto_metrics:
   - "[[Biotope area factor]]"
   - "[[Green roof coverage]]"

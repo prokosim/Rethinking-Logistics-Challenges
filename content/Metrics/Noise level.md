@@ -15,7 +15,7 @@ challenges:
   - "[[Outdoor microclimate around logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
-  - "[[Julia Kopáč]]"
+  - "[[Julia Kopác]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
 auto_tools:

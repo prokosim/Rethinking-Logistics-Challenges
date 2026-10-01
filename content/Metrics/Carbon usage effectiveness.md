@@ -10,7 +10,7 @@ aliases:
 challenges:
   - "[[Waste heat and cooling of data centres]]"
 auto_case_studies:
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
 auto_tools: []
 ---
 

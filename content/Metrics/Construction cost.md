@@ -11,8 +11,8 @@ aliases:
 challenges:
   - "[[Adaptable and relocatable logistics structures]]"
 auto_case_studies:
-  - "[[Julia Kopáč]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Julia Kopác]]"
+  - "[[Natalie Žižková]]"
 auto_tools:
   - "[[Galapagos]]"
 ---

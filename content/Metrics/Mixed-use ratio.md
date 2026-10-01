@@ -14,8 +14,8 @@ challenges:
   - "[[Public access and community use of logistics sites]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
-  - "[[Eva Kazukolovaite]]"
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Eva Kažukolovaitė]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Julia Godard Lombard]]"
   - "[[Lindsay Daphne Macuja]]"
 auto_tools: []

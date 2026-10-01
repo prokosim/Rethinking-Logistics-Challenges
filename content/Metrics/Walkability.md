@@ -14,8 +14,8 @@ challenges:
   - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
-  - "[[Julia Kopáč]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Julia Kopác]]"
+  - "[[Natalie Žižková]]"
 auto_tools: []
 ---
 

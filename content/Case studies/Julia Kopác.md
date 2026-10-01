@@ -1,5 +1,5 @@
 ---
-student: Julia Kopáč
+student: Julia Kopác
 project: Bridging Logistics
 portfolio: "https://heyzine.com/flip-book/b92ed2a571.html"
 studio: AD4 (Kurilla - Prokop Studio)
@@ -7,8 +7,7 @@ year: 2026
 location: "Business Park Zličín, Prague (main site); also applied to CTPark Prague Airport, CTPark Prague North and Caravan Metropol, Klíčany-Vodochody"
 typology: modular multi-tenant storage warehouse bridging a highway (automated container storage, with crossing / ecoduct and retail-warehouse modules)
 status: draft
-aliases:
-  - Julia Kopac
+aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"
   - "[[Land take of logistics buildings]]"

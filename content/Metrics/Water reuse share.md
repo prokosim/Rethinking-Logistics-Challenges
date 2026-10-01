@@ -12,7 +12,7 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Marek Nový]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
 auto_tools: []
 ---

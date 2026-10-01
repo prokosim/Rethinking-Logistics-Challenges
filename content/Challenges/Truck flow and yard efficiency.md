@@ -2,10 +2,10 @@
 category: Operations
 status: draft
 auto_case_studies:
-  - "[[Adéla Berkovitz]]"
+  - "[[Adela Berkowitz]]"
   - "[[Aycha Chambashala]]"
   - "[[Hynek Hrabík]]"
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_metrics:
   - "[[Dock turnaround time]]"
   - "[[Number of docks]]"

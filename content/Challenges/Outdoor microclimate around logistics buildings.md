@@ -2,7 +2,7 @@
 category: Comfort
 status: draft
 auto_case_studies:
-  - "[[Julia Kopáč]]"
+  - "[[Julia Kopác]]"
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
 auto_metrics:

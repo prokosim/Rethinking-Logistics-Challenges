@@ -14,7 +14,7 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Elsa Hauksdottir]]"
-  - "[[Eva Kazukolovaite]]"
+  - "[[Eva Kažukolovaitė]]"
   - "[[Julia Godard Lombard]]"
 auto_tools: []
 ---

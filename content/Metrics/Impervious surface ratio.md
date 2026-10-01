@@ -17,9 +17,9 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Hynek Hrabík]]"
-  - "[[Ilinka Maria Baciu]]"
-  - "[[Julia Kopáč]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Ilinca Maria Baciu]]"
+  - "[[Julia Kopác]]"
+  - "[[Natalie Žižková]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

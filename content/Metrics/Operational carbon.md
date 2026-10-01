@@ -14,10 +14,10 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Hynek Hrabík]]"
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Julia Godard Lombard]]"
   - "[[Sara Gani]]"
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_tools:
   - "[[Dragonfly]]"
   - "[[Honeybee]]"

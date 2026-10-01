@@ -11,7 +11,7 @@ aliases:
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
 auto_case_studies:
-  - "[[Eva Kazukolovaite]]"
+  - "[[Eva Kažukolovaitė]]"
   - "[[Khrystyna Verbitska]]"
   - "[[Thomas Olsen]]"
 auto_tools: []

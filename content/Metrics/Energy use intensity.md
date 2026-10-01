@@ -15,14 +15,14 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
-  - "[[Adéla Berkovitz]]"
+  - "[[Adela Berkowitz]]"
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Lindsay Daphne Macuja]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_tools:
   - "[[Dragonfly]]"
   - "[[Honeybee]]"

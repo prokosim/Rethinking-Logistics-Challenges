@@ -11,7 +11,7 @@ challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_tools:
   - "[[CO2mpare]]"
   - "[[One Click LCA]]"

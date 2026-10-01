@@ -25,6 +25,8 @@ for (const n of notes) {
   for (const k of Object.keys(n.data)) if (!known.has(k) && !k.startsWith("auto_")) w(n, `extra property "${k}" (fine — it is shown on the page, just not used in overviews)`)
 }
 
+for (const n of kb.drafts) warnings.push(`${n.rel}: marked "draft: true" — ignored and not published (delete it if it is obsolete)`)
+
 const counts = Object.fromEntries(Object.keys(schema.types).map((t) => [t, notes.filter((n) => n.type === t).length]))
 console.log(`Rethinking Logistics Challenges — ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(" · ")}`)
 if (warnings.length) {

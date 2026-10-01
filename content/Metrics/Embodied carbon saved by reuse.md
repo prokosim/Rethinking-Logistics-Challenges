@@ -13,7 +13,7 @@ challenges:
 auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Thomas Olsen]]"
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_tools:
   - "[[One Click LCA]]"
 ---

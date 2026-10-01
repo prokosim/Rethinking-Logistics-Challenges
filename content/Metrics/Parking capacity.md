@@ -12,9 +12,9 @@ challenges:
   - "[[Land take of logistics buildings]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 auto_case_studies:
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Katrin Rybinskiy]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
 auto_tools: []
 ---

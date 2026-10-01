@@ -12,7 +12,7 @@ aliases:
 challenges:
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"

@@ -14,7 +14,7 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Marek Nový]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
 auto_tools:
   - "[[Lands Design]]"
 ---

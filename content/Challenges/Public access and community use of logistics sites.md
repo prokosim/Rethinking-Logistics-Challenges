@@ -4,7 +4,7 @@ status: draft
 auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Marek Nový]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
   - "[[Roshni Basu]]"
   - "[[Thomas Olsen]]"
 auto_metrics:

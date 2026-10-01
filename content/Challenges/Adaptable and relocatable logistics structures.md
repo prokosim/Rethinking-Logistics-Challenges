@@ -4,8 +4,8 @@ status: draft
 auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"
-  - "[[Eva Kazukolovaite]]"
-  - "[[Julia Kopáč]]"
+  - "[[Eva Kažukolovaitė]]"
+  - "[[Julia Kopác]]"
 auto_metrics:
   - "[[Adaptability]]"
   - "[[Construction cost]]"

@@ -12,7 +12,7 @@ challenges:
   - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
-  - "[[Eva Kazukolovaite]]"
+  - "[[Eva Kažukolovaitė]]"
 auto_tools: []
 ---
 

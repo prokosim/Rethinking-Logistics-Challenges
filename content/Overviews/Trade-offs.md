@@ -14,7 +14,7 @@ Design decisions are trade-offs between metrics. These are the ones the students
 - Higher CapEx share (50% vs 40%) is accepted to reduce OpEx by 60% over 30 years, with a 12-year payback (life-cycle cost KPI).
 - Going vertical frees ~120,000 m² of ground for park and ecology but requires deep underground storage and parking (−24 m), which conflicts with the embodied-carbon strategy 'no underground / avoid deep foundations' listed under KPI 2.3.
 
-## [[Adéla Berkovitz]]
+## [[Adela Berkowitz]]
 
 - Splitting the mass into separate buildings is less financially efficient (cost) but gives human scale, better neighbourhood integration and passage for small animals (biodiversity / visual impact).
 - A linear logistics flow (processing efficiency, less forklift travel) blocks a bio-corridor through the plot, so ecological elements move to the perimeter (questionnaire).
@@ -43,7 +43,7 @@ Design decisions are trade-offs between metrics. These are the ones the students
 - Robotic partitions reconfigure much faster (5–15 min vs 2–4 h) and need less labour, but cost more to operate and have higher environmental impact than manual partitions.
 - A fully pneumatic envelope gives the most spatial flexibility, while a hybrid with only the roof inflatable trades some of that for structural stability.
 
-## [[Eva Kazukolovaite]]
+## [[Eva Kažukolovaitė]]
 
 - Better long-term energy performance of the hub requires higher upfront costs and takes space, reducing space efficiency (operational energy vs. CapEx and space efficiency) (questionnaire).
 - Bringing public functions to the hub may add occasional noise and foot traffic for residents (social integration vs. residential comfort) (questionnaire 4.4).
@@ -55,7 +55,7 @@ Design decisions are trade-offs between metrics. These are the ones the students
 - Removing docks cuts paved surface, but in a conventional layout it reduces throughput (40 classic docks bottleneck at about 245 vs about 250). Only the flow-through layout keeps throughput with fewer docks.
 - Bays without buffer zones and visual guides demand more precise truck manoeuvring and reduce flexibility, an operational risk traded against footprint (questionnaire 4.4).
 
-## [[Ilinka Maria Baciu]]
+## [[Ilinca Maria Baciu]]
 
 - Adding public and green layers improves urban integration and biodiversity but lowers logistics efficiency and raises construction cost (questionnaire; also listed as unintended consequences).
 - Heavy truck areas must stay hard and durable, limiting the permeable surface ratio; water there is routed to planted channels and retention instead.
@@ -72,7 +72,7 @@ Design decisions are trade-offs between metrics. These are the ones the students
 - More servers raise recoverable heat but also raise energy consumption and water consumption, which grow with the data-centre share.
 - Maximising solar panels improves energy supply but adds structural load and lowers biodiversity net gain (questionnaire).
 
-## [[Julia Kopáč]]
+## [[Julia Kopác]]
 
 - Cost to build roughly doubles (600 to 1,220 EUR/m²) in exchange for large gains in uninterrupted greenery, walkability, noise reduction and lower sealed-surface share.
 - Higher automation level (lower labour cost) increases electricity use, i.e. operating energy demand (questionnaire).
@@ -97,7 +97,7 @@ Design decisions are trade-offs between metrics. These are the ones the students
 
 - Implied by the KPI table, not discussed by the student: solar exposure falls from 92% to 77% as tree count (46 → 257) and shaded public space (8% → 23%) rise, so more shade and canopy cost sun access (and possibly PV/daylight potential).
 
-## [[Natalie Žižkova]]
+## [[Natalie Žižková]]
 
 - Not stated explicitly; the geometry optimiser balances façade perimeter (cost, heat loss) against the fixed usable-area target of 5,000 m².
 
@@ -130,7 +130,7 @@ Design decisions are trade-offs between metrics. These are the ones the students
 - Maximising green roof area improves stormwater retention, biodiversity and thermal performance but reduces roof area for PV and therefore renewable energy production (green roof coverage vs. solar energy yield); resolved with a combined biosolar roof (questionnaire).
 - Opening the site to the public and adding ecological features raises social value and biodiversity but may increase maintenance, wildlife disturbance and conflicts with logistics operations (public accessibility vs. operational efficiency) (questionnaire 4.4).
 
-## [[Vládu Kostecky]]
+## [[Vladi Kostecki]]
 
 - More green space on the property means less storage space (green space area vs. storage capacity) (questionnaire).
 - Reuse with an upgraded envelope and adaptive façade raises upfront cost and embodied carbon of the renovation but lowers operational energy and running costs (CapEx/embodied carbon vs. operational energy) (questionnaire 4.4).

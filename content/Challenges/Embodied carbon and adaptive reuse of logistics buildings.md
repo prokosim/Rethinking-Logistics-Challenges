@@ -8,7 +8,7 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Sara Sulollari]]"
   - "[[Thomas Olsen]]"
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_metrics:
   - "[[Biodiversity stress from materials]]"
   - "[[CapEx–OpEx ratio]]"

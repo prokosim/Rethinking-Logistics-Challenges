@@ -2,12 +2,12 @@
 category: Safety
 status: draft
 auto_case_studies:
-  - "[[Adéla Berkovitz]]"
-  - "[[Eva Kazukolovaite]]"
+  - "[[Adela Berkowitz]]"
+  - "[[Eva Kažukolovaitė]]"
   - "[[Lindsay Daphne Macuja]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_metrics:
   - "[[Distance to housing]]"
   - "[[Pedestrian–vehicle conflict points]]"

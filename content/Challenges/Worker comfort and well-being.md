@@ -2,7 +2,7 @@
 category: Comfort
 status: draft
 auto_case_studies:
-  - "[[Eva Kazukolovaite]]"
+  - "[[Eva Kažukolovaitė]]"
   - "[[Sara Gani]]"
 auto_metrics:
   - "[[Daylight autonomy]]"

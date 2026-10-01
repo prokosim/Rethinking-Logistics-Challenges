@@ -12,7 +12,7 @@ challenges:
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Worker comfort and well-being]]"
 auto_case_studies:
-  - "[[Adéla Berkovitz]]"
+  - "[[Adela Berkowitz]]"
   - "[[Johannes Berger]]"
   - "[[Sara Gani]]"
 auto_tools: []

@@ -17,33 +17,36 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
+      // Rethinking.Logistics identity: Poppins (SemiBold 600 / ExtraBold 800)
       typography: {
-        header: "Inter",
-        body: "Source Sans 3",
+        title: { name: "Poppins", weights: [800] },
+        header: { name: "Poppins", weights: [600, 800] },
+        body: { name: "Poppins", weights: [400, 600], includeItalic: true },
         code: "IBM Plex Mono",
       },
+      // Project gradient: orange #C57E38 → purple #493A8B
       colors: {
         lightMode: {
-          light: "#fbfaf7",
-          lightgray: "#e4e2dc",
-          gray: "#a9a69d",
-          darkgray: "#45433e",
-          dark: "#1f1e1b",
-          secondary: "#1f5f8b",
-          tertiary: "#c2703d",
-          highlight: "rgba(31, 95, 139, 0.10)",
-          textHighlight: "#ffe56688",
+          light: "#faf7f2", // page background (warm off-white)
+          lightgray: "#e8e2d8", // borders, table lines
+          gray: "#a9a1b3", // muted text, graph links
+          darkgray: "#3f3a4a", // body text
+          dark: "#231e33", // headings
+          secondary: "#493a8b", // links, page title (purple)
+          tertiary: "#c57e38", // hover, active graph node (orange)
+          highlight: "rgba(73, 58, 139, 0.08)",
+          textHighlight: "rgba(197, 126, 56, 0.35)",
         },
         darkMode: {
-          light: "#17181a",
-          lightgray: "#34363a",
-          gray: "#6d6f74",
-          darkgray: "#d6d6d3",
-          dark: "#efeeea",
-          secondary: "#7fb3d9",
-          tertiary: "#e39a67",
-          highlight: "rgba(127, 179, 217, 0.12)",
-          textHighlight: "#b3aa0288",
+          light: "#1a1726", // deep purple-black background
+          lightgray: "#353048",
+          gray: "#6f6882",
+          darkgray: "#d9d4e6",
+          dark: "#f3eff9",
+          secondary: "#a99be0", // lighter purple for contrast on dark
+          tertiary: "#e0a060", // lighter orange
+          highlight: "rgba(169, 155, 224, 0.12)",
+          textHighlight: "rgba(224, 160, 96, 0.35)",
         },
       },
     },

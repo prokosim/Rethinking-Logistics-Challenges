@@ -12,7 +12,7 @@ challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
   - "[[Adaptable and relocatable logistics structures]]"
 auto_case_studies:
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
 auto_tools:
   - "[[Donkey]]"
   - "[[Karamba3D]]"

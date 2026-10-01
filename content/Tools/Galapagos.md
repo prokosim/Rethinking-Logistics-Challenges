@@ -9,7 +9,7 @@ aliases: []
 metrics:
   - "[[Construction cost]]"
 auto_case_studies:
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
 ---
 
 ## What it does

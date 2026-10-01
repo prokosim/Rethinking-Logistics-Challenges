@@ -1,34 +1,135 @@
 @use "./base.scss";
 
-// Design Challenge Atlas — small visual tweaks on top of Quartz defaults.
+// ── Rethinking.Logistics theme ──────────────────────────────────────────────
+// Brand gradient (as in the project visuals): orange #C57E38 at 16 % → purple #493A8B at 78 %
+$rl-orange: #c57e38;
+$rl-purple: #493a8b;
+$rl-gradient: linear-gradient(90deg, $rl-orange 16%, $rl-purple 78%);
+$rl-gradient-dark: linear-gradient(90deg, #e0a060 16%, #a99be0 78%);
 
-// Wide overview tables: allow horizontal scroll instead of squashing.
+// Thin gradient bar across the top of every page
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: $rl-gradient;
+  z-index: 1000;
+}
+
+// Site title (top left): gradient text, ExtraBold capitals like the poster
+.page-title,
+.page-title a {
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+  line-height: 1.05;
+}
+.page-title a {
+  background: $rl-gradient;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+:root[saved-theme="dark"] .page-title a {
+  background-image: $rl-gradient-dark;
+}
+
+// Headings
+h1,
+.article-title {
+  font-weight: 800;
+}
+h2,
+h3,
+h4 {
+  font-weight: 600;
+}
+
+// Gradient line under the page title
+.article-title::after {
+  content: "";
+  display: block;
+  width: 72px;
+  height: 4px;
+  margin-top: 0.5rem;
+  border-radius: 2px;
+  background: $rl-gradient;
+}
+
+// Table headers: small spaced capitals, like the poster subtitle
+.table-container > table th {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  vertical-align: bottom;
+}
+
+// Wide tables scroll instead of squashing
 .table-container {
   overflow-x: auto;
   & > table {
     font-size: 0.92rem;
-    th {
-      white-space: nowrap;
+    & > * {
+      line-height: 1.45;
     }
     td,
     th {
-      padding: 0.35rem 0.6rem;
+      padding: 0.45rem 0.6rem;
       vertical-align: top;
     }
   }
 }
 
-// Property table directly under the trust badge: compact, two columns.
-article > .callout + .table-container > table {
-  font-size: 0.9rem;
-  td:first-child {
-    color: var(--gray);
-    white-space: nowrap;
+// Property table directly under the info box
+article > .callout + .table-container > table td:first-child {
+  color: var(--gray);
+  white-space: nowrap;
+}
+
+// Tag chips in project colours
+a.tag-link {
+  background-color: rgba(197, 126, 56, 0.14);
+  color: var(--secondary);
+  &:hover {
+    background-color: rgba(197, 126, 56, 0.28);
   }
 }
 
-// Tag chips: make status/evidence tags readable at a glance.
-.tags a.tag-link[href*="status/verified"] { background: rgba(46, 160, 67, 0.15); }
-.tags a.tag-link[href*="status/reviewed"] { background: rgba(31, 95, 139, 0.15); }
-.tags a.tag-link[href*="status/proposed"] { background: rgba(212, 160, 23, 0.18); }
-.tags a.tag-link[href*="status/deprecated"] { background: rgba(200, 60, 60, 0.15); }
+// Info boxes in project colours
+.callout {
+  &[data-callout="info"],
+  &[data-callout="abstract"],
+  &[data-callout="note"] {
+    --color: #{$rl-purple};
+    --border: #{rgba($rl-purple, 0.3)};
+    --bg: #{rgba($rl-purple, 0.06)};
+  }
+  &[data-callout="tip"],
+  &[data-callout="todo"],
+  &[data-callout="warning"] {
+    --color: #a8692d;
+    --border: #{rgba($rl-orange, 0.35)};
+    --bg: #{rgba($rl-orange, 0.08)};
+  }
+}
+:root[saved-theme="dark"] .callout {
+  &[data-callout="info"],
+  &[data-callout="abstract"],
+  &[data-callout="note"] {
+    --color: #a99be0;
+    --border: rgba(169, 155, 224, 0.35);
+    --bg: rgba(169, 155, 224, 0.08);
+  }
+  &[data-callout="tip"],
+  &[data-callout="todo"],
+  &[data-callout="warning"] {
+    --color: #e0a060;
+    --border: rgba(224, 160, 96, 0.35);
+    --bg: rgba(224, 160, 96, 0.08);
+  }
+}

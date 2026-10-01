@@ -20,9 +20,9 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Elsa Hauksdottir]]"
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Khrystyna Verbitska]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
   - "[[Sara Sulollari]]"
   - "[[Thomas Olsen]]"

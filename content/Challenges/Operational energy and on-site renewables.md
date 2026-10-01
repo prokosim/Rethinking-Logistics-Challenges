@@ -3,7 +3,7 @@ category: Energy
 status: draft
 auto_case_studies:
   - "[[Elsa Hauksdottir]]"
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
 auto_metrics:

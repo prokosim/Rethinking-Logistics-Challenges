@@ -17,7 +17,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Design for disassembly score]] | Checklist score: dry/reversible connections, standard modules, material passports, separable layers. | — | 1 |
 | [[Structural utilisation]] | Loads (dead, live, snow per Eurocode) and the resulting utilisation of structural members, from hand calculation or finite-element analysis. | [[Donkey]], [[Karamba3D]] | 1 |
 
-**Case studies:** [[Amy Naprstek]], [[Elsa Hauksdottir]], [[Eva Kazukolovaite]], [[Julia Kopáč]]
+**Case studies:** [[Amy Naprstek]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]], [[Julia Kopác]]
 
 ## [[Automation and operational efficiency of logistics]]
 
@@ -49,7 +49,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Native species richness]] | Count of native plant (or animal) species supported on site, from planting plan or survey. | [[Rhino.Ecologic]] | 4 |
 | [[Tree count and canopy cover]] | Number of trees (or crown area) on site ÷ site area; compared before and after the design. | [[Lands Design]] | 3 |
 
-**Case studies:** [[Adam Večeřa]], [[Adéla Berkovitz]], [[Aycha Chambashala]], [[Ece Yasar]], [[Ilinka Maria Baciu]], [[Lindsay Daphne Macuja]], [[Sara Gani]]
+**Case studies:** [[Adam Večeřa]], [[Adela Berkowitz]], [[Aycha Chambashala]], [[Ece Yasar]], [[Ilinca Maria Baciu]], [[Lindsay Daphne Macuja]], [[Sara Gani]]
 
 ## [[Embodied carbon and adaptive reuse of logistics buildings]]
 
@@ -66,7 +66,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Structural utilisation]] | Loads (dead, live, snow per Eurocode) and the resulting utilisation of structural members, from hand calculation or finite-element analysis. | [[Donkey]], [[Karamba3D]] | 1 |
 | [[Whole-life carbon]] | (Embodied carbon + operational carbon over the reference period) ÷ number of years. | [[CO2mpare]], [[One Click LCA]] | 1 |
 
-**Case studies:** [[Julia Godard Lombard]], [[Katrin Rybinskiy]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Sara Sulollari]], [[Thomas Olsen]], [[Vládu Kostecky]]
+**Case studies:** [[Julia Godard Lombard]], [[Katrin Rybinskiy]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Sara Sulollari]], [[Thomas Olsen]], [[Vladi Kostecki]]
 
 ## [[Land take of logistics buildings]]
 
@@ -80,7 +80,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Throughput per site area]] | Goods handled (parcels, pallets, tonnes) per day ÷ site area. | — | 3 |
 | [[Yard area per dock]] | Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis. | [[AutoTURN]] | 1 |
 
-**Case studies:** [[Adam Večeřa]], [[Amy Naprstek]], [[Hynek Hrabík]], [[Johannes Berger]], [[Julia Kopáč]]
+**Case studies:** [[Adam Večeřa]], [[Amy Naprstek]], [[Hynek Hrabík]], [[Johannes Berger]], [[Julia Kopác]]
 
 ## [[Last-mile delivery emissions and traffic]]
 
@@ -112,7 +112,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Rooftop PV generation]] | Usable roof area × annual solar irradiation (kWh/m²) × module efficiency × performance ratio. Irradiation from solar radiation analysis (Ladybug, Cyclops) or PVGIS. | [[Cyclops]], [[Dragonfly]], [[Honeybee]], [[Ladybug]], [[URBANopt]] | 4 |
 | [[Whole-life carbon]] | (Embodied carbon + operational carbon over the reference period) ÷ number of years. | [[CO2mpare]], [[One Click LCA]] | 1 |
 
-**Case studies:** [[Elsa Hauksdottir]], [[Ilinka Maria Baciu]], [[Katrin Rybinskiy]], [[Marek Nový]]
+**Case studies:** [[Elsa Hauksdottir]], [[Ilinca Maria Baciu]], [[Katrin Rybinskiy]], [[Marek Nový]]
 
 ## [[Outdoor microclimate around logistics buildings]]
 
@@ -126,7 +126,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Urban heat island effect]] | Surface or air temperature difference to a rural reference, simulated or from satellite maps. | [[Dragonfly]] | 2 |
 | [[Wind conditions]] | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Ladybug]] | 2 |
 
-**Case studies:** [[Julia Kopáč]], [[Robin Jesenský]], [[Sara Sulollari]]
+**Case studies:** [[Julia Kopác]], [[Robin Jesenský]], [[Sara Sulollari]]
 
 ## [[Pedestrian–truck safety on logistics sites]]
 
@@ -136,7 +136,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Pedestrian–vehicle conflict points]] | Number of points where pedestrian routes cross truck or van routes, counted on the site plan; or share of routes that are fully separated. | — | 4 |
 | [[Worker safety incidents]] | Recorded incidents per year (or hazard zones per layout) in operational areas. | — | 3 |
 
-**Case studies:** [[Adéla Berkovitz]], [[Eva Kazukolovaite]], [[Lindsay Daphne Macuja]], [[Natalie Žižkova]], [[Sara Gani]], [[Vládu Kostecky]]
+**Case studies:** [[Adela Berkowitz]], [[Eva Kažukolovaitė]], [[Lindsay Daphne Macuja]], [[Natalie Žižková]], [[Sara Gani]], [[Vladi Kostecki]]
 
 ## [[Public access and community use of logistics sites]]
 
@@ -148,7 +148,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Publicly accessible area]] | Area freely open to the public (plazas, parks, roofs, ground-floor uses) ÷ site area. | [[Grasshopper]] | 8 |
 | [[Social interaction index]] | Observed or estimated number of people using the public spaces of the project per day. | — | 3 |
 
-**Case studies:** [[Khrystyna Verbitska]], [[Marek Nový]], [[Natalie Žižkova]], [[Roshni Basu]], [[Thomas Olsen]]
+**Case studies:** [[Khrystyna Verbitska]], [[Marek Nový]], [[Natalie Žižková]], [[Roshni Basu]], [[Thomas Olsen]]
 
 ## [[Stormwater and sealed surfaces on logistics sites]]
 
@@ -163,7 +163,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Water reuse share]] | Reused rain or grey water ÷ total water demand × 100. | — | 4 |
 | [[Yard area per dock]] | Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis. | [[AutoTURN]] | 1 |
 
-**Case studies:** [[Adam Večeřa]], [[Aycha Chambashala]], [[Ece Yasar]], [[Hynek Hrabík]], [[Ilinka Maria Baciu]], [[Marek Nový]], [[Natalie Žižkova]]
+**Case studies:** [[Adam Večeřa]], [[Aycha Chambashala]], [[Ece Yasar]], [[Hynek Hrabík]], [[Ilinca Maria Baciu]], [[Marek Nový]], [[Natalie Žižková]]
 
 ## [[Truck flow and yard efficiency]]
 
@@ -174,7 +174,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Truck throughput]] | Trucks handled per hour (or day), counted in a simulation or from operational data. | — | 2 |
 | [[Yard area per dock]] | Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis. | [[AutoTURN]] | 1 |
 
-**Case studies:** [[Adéla Berkovitz]], [[Aycha Chambashala]], [[Hynek Hrabík]], [[Vládu Kostecky]]
+**Case studies:** [[Adela Berkowitz]], [[Aycha Chambashala]], [[Hynek Hrabík]], [[Vladi Kostecki]]
 
 ## [[Urban integration of logistics buildings]]
 
@@ -190,7 +190,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Social interaction index]] | Observed or estimated number of people using the public spaces of the project per day. | — | 3 |
 | [[Walkability]] | Walk Score-type index, or a custom score of route continuity, crossings and destinations within walking distance. | — | 3 |
 
-**Case studies:** [[Adam Večeřa]], [[Adéla Berkovitz]], [[Amy Naprstek]], [[Aycha Chambashala]], [[Elsa Hauksdottir]], [[Eva Kazukolovaite]], [[Ilinka Maria Baciu]], [[Julia Godard Lombard]], [[Julia Kopáč]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Marek Nový]], [[Natalie Žižkova]], [[Roshni Basu]], [[Sara Gani]], [[Sara Sulollari]], [[Vládu Kostecky]]
+**Case studies:** [[Adam Večeřa]], [[Adela Berkowitz]], [[Amy Naprstek]], [[Aycha Chambashala]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]], [[Ilinca Maria Baciu]], [[Julia Godard Lombard]], [[Julia Kopác]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Marek Nový]], [[Natalie Žižková]], [[Roshni Basu]], [[Sara Gani]], [[Sara Sulollari]], [[Vladi Kostecki]]
 
 ## [[Visual impact and acceptance by neighbours]]
 
@@ -227,4 +227,4 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Worker safety incidents]] | Recorded incidents per year (or hazard zones per layout) in operational areas. | — | 3 |
 | [[Worker well-being]] | Post-occupancy survey or checklist score of daylight, views, rest areas, greenery and facilities for workers. | — | 4 |
 
-**Case studies:** [[Eva Kazukolovaite]], [[Sara Gani]]
+**Case studies:** [[Eva Kažukolovaitė]], [[Sara Gani]]

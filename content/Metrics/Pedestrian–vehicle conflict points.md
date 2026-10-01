@@ -12,10 +12,10 @@ aliases:
 challenges:
   - "[[Pedestrian–truck safety on logistics sites]]"
 auto_case_studies:
-  - "[[Eva Kazukolovaite]]"
-  - "[[Natalie Žižkova]]"
+  - "[[Eva Kažukolovaitė]]"
+  - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_tools: []
 ---
 

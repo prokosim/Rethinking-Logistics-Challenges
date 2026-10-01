@@ -11,7 +11,7 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
   - "[[Automation and operational efficiency of logistics]]"
 auto_case_studies:
-  - "[[Vládu Kostecky]]"
+  - "[[Vladi Kostecki]]"
 auto_tools: []
 ---
 

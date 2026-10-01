@@ -13,7 +13,7 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
-  - "[[Ilinka Maria Baciu]]"
+  - "[[Ilinca Maria Baciu]]"
   - "[[Thomas Olsen]]"
 auto_tools:
   - "[[Grasshopper]]"

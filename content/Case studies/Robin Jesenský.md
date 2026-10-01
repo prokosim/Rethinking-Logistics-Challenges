@@ -7,8 +7,7 @@ year: 2026
 location: Grindavík, Reykjanes peninsula, Iceland (wind data from Keflavík International Airport)
 typology: data centre (modular, passively wind-cooled)
 status: draft
-aliases:
-  - Robin s. Jesensky
+aliases: []
 challenges:
   - "[[Waste heat and cooling of data centres]]"
   - "[[Outdoor microclimate around logistics buildings]]"

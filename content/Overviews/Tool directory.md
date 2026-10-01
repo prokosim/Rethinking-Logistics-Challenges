@@ -56,13 +56,13 @@ description: "Tools by category, what they calculate and where they were used."
 
 | Tool | Platform | Metrics it can calculate | Used in |
 | --- | --- | --- | --- |
-| [[Galapagos]] | Rhino/Grasshopper | [[Construction cost]] | [[Natalie Žižkova]] |
+| [[Galapagos]] | Rhino/Grasshopper | [[Construction cost]] | [[Natalie Žižková]] |
 
 ## Parametric platform
 
 | Tool | Platform | Metrics it can calculate | Used in |
 | --- | --- | --- | --- |
-| [[Grasshopper]] | Rhino/Grasshopper | [[Land take]], [[Distance to housing]], [[Impervious surface ratio]], [[Green area ratio]], [[Green roof coverage]], [[Biotope area factor]], [[Publicly accessible area]], [[Space utilisation]] | [[Adam Večeřa]], [[Hynek Hrabík]], [[Lindsay Daphne Macuja]], [[Natalie Žižkova]], [[Robin Jesenský]], [[Sara Sulollari]] |
+| [[Grasshopper]] | Rhino/Grasshopper | [[Land take]], [[Distance to housing]], [[Impervious surface ratio]], [[Green area ratio]], [[Green roof coverage]], [[Biotope area factor]], [[Publicly accessible area]], [[Space utilisation]] | [[Adam Večeřa]], [[Hynek Hrabík]], [[Lindsay Daphne Macuja]], [[Natalie Žižková]], [[Robin Jesenský]], [[Sara Sulollari]] |
 
 ## Structure
 
