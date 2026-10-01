@@ -1,0 +1,23 @@
+---
+category: Logistics operations
+unit: "% of emissions / road wear"
+calculation: "Share of freight moved by trucks vs. their share of transport emissions; road wear per truck in car equivalents (fourth-power law)."
+origin: adapted
+status: draft
+aliases:
+  - Trucks' share of freight vs share of transport emissions
+  - Road degradation per truck
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
+auto_case_studies:
+  - "[[Johannes Berger]]"
+auto_tools: []
+---
+
+## What it measures
+
+Arguments for alternatives to trucks.
+
+## Calculation
+
+Share of freight moved by trucks vs. their share of transport emissions; road wear per truck in car equivalents (fourth-power law).

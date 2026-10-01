@@ -1,0 +1,28 @@
+---
+category: Location
+unit: score
+calculation: Walk Score-type index, or a custom score of route continuity, crossings and destinations within walking distance.
+origin: adapted
+standard: Walk Score
+status: draft
+aliases:
+  - Walkability index
+  - Walkability score
+  - Connected public pathways
+  - Pedestrian accessibility
+challenges:
+  - "[[Urban integration of logistics buildings]]"
+auto_case_studies:
+  - "[[Adam Večeřa]]"
+  - "[[Julia Kopáč]]"
+  - "[[Natalie Žižkova]]"
+auto_tools: []
+---
+
+## What it measures
+
+How well the site connects to the pedestrian network.
+
+## Calculation
+
+Walk Score-type index, or a custom score of route continuity, crossings and destinations within walking distance.

@@ -1,0 +1,80 @@
+name: 🛠️ Add a tool
+description: Propose a tool and the metrics it can calculate.
+title: '[Tool] '
+labels:
+- contribution
+- type:tool
+body:
+- type: markdown
+  attributes:
+    value: 'A **tool** is software (Rhino/Grasshopper plugin, web app, standalone…) that calculates metrics. Please describe limitations as clearly as strengths.
+
+
+      A maintainer reviews your submission. When it is labelled **accepted**, a bot turns it into a page and opens a pull request.'
+- type: input
+  id: name
+  attributes:
+    label: Tool name
+  validations:
+    required: true
+- type: input
+  id: platform
+  attributes:
+    label: Platform
+    placeholder: e.g. Rhino/Grasshopper, web app
+  validations:
+    required: true
+- type: input
+  id: category
+  attributes:
+    label: Category
+    placeholder: e.g. Energy simulation, Life-cycle & carbon
+  validations:
+    required: false
+- type: input
+  id: developer
+  attributes:
+    label: Developer
+  validations:
+    required: false
+- type: input
+  id: url
+  attributes:
+    label: Website
+  validations:
+    required: true
+- type: input
+  id: license
+  attributes:
+    label: Licence
+    placeholder: open-source / free / commercial
+  validations:
+    required: false
+- type: textarea
+  id: metrics
+  attributes:
+    label: Which metrics can it calculate?
+    description: One per line. Use names of existing pages where possible — new names are fine too.
+  validations:
+    required: true
+- type: textarea
+  id: s_what
+  attributes:
+    label: What it does
+  validations:
+    required: true
+- type: textarea
+  id: s_limits
+  attributes:
+    label: Limitations
+  validations:
+    required: false
+- type: checkboxes
+  id: confirm
+  attributes:
+    label: Before you submit
+    options:
+    - label: I searched the site and this is not there yet.
+      required: true
+    - label: I did not copy text from standards, papers or other copyrighted sources.
+      required: true

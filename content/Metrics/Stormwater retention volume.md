@@ -1,0 +1,26 @@
+---
+category: Water
+unit: m³
+calculation: "Sum of the storage capacity of green roofs, swales, ponds and tanks; or design rainfall × area × (1 − runoff coefficient)."
+origin: student
+status: draft
+aliases:
+  - Rainwater retention volume
+  - Stormwater retention capacity
+  - Roof water retention
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
+auto_case_studies:
+  - "[[Adam Večeřa]]"
+  - "[[Ece Yasar]]"
+  - "[[Marek Nový]]"
+auto_tools: []
+---
+
+## What it measures
+
+How much rainwater the site can hold back during a storm.
+
+## Calculation
+
+Sum of the storage capacity of green roofs, swales, ponds and tanks; or design rainfall × area × (1 − runoff coefficient).

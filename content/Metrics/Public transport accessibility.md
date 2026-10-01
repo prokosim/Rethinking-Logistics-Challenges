@@ -1,0 +1,27 @@
+---
+category: Location
+unit: m (walking distance) or score
+calculation: Walking distance from the entrance to the nearest stops, or a score by transport mode (walk, bike, tram, bus, car).
+origin: student
+status: draft
+aliases:
+  - Distance to public transport
+  - Accessibility score by mode
+  - Bicycle parking spaces
+  - Cycling lanes infrastructure
+challenges:
+  - "[[Urban integration of logistics buildings]]"
+  - "[[Last-mile delivery emissions and traffic]]"
+auto_case_studies:
+  - "[[Adam Večeřa]]"
+auto_tools:
+  - "[[Geoportal Praha]]"
+---
+
+## What it measures
+
+Whether workers and visitors can reach the site without a car.
+
+## Calculation
+
+Walking distance from the entrance to the nearest stops, or a score by transport mode (walk, bike, tram, bus, car).

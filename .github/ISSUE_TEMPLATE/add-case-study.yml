@@ -1,0 +1,109 @@
+name: 📚 Add a case study
+description: Share a project that used tools and metrics to make a design decision.
+title: '[Case study] '
+labels:
+- contribution
+- type:case-study
+body:
+- type: markdown
+  attributes:
+    value: 'A **case study** shows how tools delivered metrics that supported a design decision.
+
+
+      A maintainer reviews your submission. When it is labelled **accepted**, a bot turns it into a page and opens a pull request.'
+- type: input
+  id: name
+  attributes:
+    label: Page name
+    description: Usually the author's name.
+  validations:
+    required: true
+- type: input
+  id: student
+  attributes:
+    label: Author
+  validations:
+    required: false
+- type: input
+  id: project
+  attributes:
+    label: Project title
+  validations:
+    required: true
+- type: input
+  id: portfolio
+  attributes:
+    label: Link to the portfolio or project
+  validations:
+    required: false
+- type: input
+  id: location
+  attributes:
+    label: Location
+  validations:
+    required: false
+- type: input
+  id: typology
+  attributes:
+    label: Typology
+    placeholder: e.g. urban micro-hub, data centre
+  validations:
+    required: false
+- type: textarea
+  id: challenges
+  attributes:
+    label: Design challenges
+    description: One per line. Use names of existing pages where possible — new names are fine too.
+  validations:
+    required: false
+- type: textarea
+  id: metrics
+  attributes:
+    label: Metrics used
+    description: One per line. Use names of existing pages where possible — new names are fine too.
+  validations:
+    required: false
+- type: textarea
+  id: tools
+  attributes:
+    label: Tools used
+    description: One per line. Use names of existing pages where possible — new names are fine too.
+  validations:
+    required: false
+- type: textarea
+  id: s_project
+  attributes:
+    label: Project
+    description: Short summary.
+  validations:
+    required: true
+- type: textarea
+  id: s_evidence
+  attributes:
+    label: Metrics and evidence
+    description: Values, how they were calculated, with which tool.
+  validations:
+    required: false
+- type: textarea
+  id: s_tradeoffs
+  attributes:
+    label: Trade-offs
+    description: Which metrics pulled against each other?
+  validations:
+    required: false
+- type: textarea
+  id: s_decision
+  attributes:
+    label: Decision
+    description: What did the evidence decide?
+  validations:
+    required: false
+- type: checkboxes
+  id: confirm
+  attributes:
+    label: Before you submit
+    options:
+    - label: I searched the site and this is not there yet.
+      required: true
+    - label: I did not copy text from standards, papers or other copyrighted sources.
+      required: true

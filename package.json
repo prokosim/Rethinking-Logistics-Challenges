@@ -1,0 +1,21 @@
+{
+  "name": "rethinking-logistics-challenges",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Rethinking Logistics Challenges \u2014 evidence-based design knowledge base",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "validate": "node scripts/validate.mjs",
+    "overviews": "node scripts/generate-overviews.mjs",
+    "build": "node scripts/build-site.mjs",
+    "preview": "node scripts/build-site.mjs --serve"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0"
+  }
+}

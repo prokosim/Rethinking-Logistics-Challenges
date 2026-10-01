@@ -1,0 +1,27 @@
+---
+category: Logistics operations
+unit: "units/m²·day"
+calculation: Goods handled (parcels, pallets, tonnes) per day ÷ site area.
+origin: student
+status: draft
+aliases:
+  - Land use efficiency
+  - Pallet throughput
+  - Processing capacity
+challenges:
+  - "[[Land take of logistics buildings]]"
+  - "[[Automation and operational efficiency of logistics]]"
+auto_case_studies:
+  - "[[Adéla Berkovitz]]"
+  - "[[Hynek Hrabík]]"
+  - "[[Vládu Kostecky]]"
+auto_tools: []
+---
+
+## What it measures
+
+Relates land use to logistics output — high values mean compact, efficient sites.
+
+## Calculation
+
+Goods handled (parcels, pallets, tonnes) per day ÷ site area.

@@ -1,0 +1,30 @@
+---
+category: Comfort
+unit: "PMV / UTCI / % in comfort zone"
+calculation: "Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data."
+origin: standard
+standard: EN 16798 / ASHRAE 55
+status: draft
+aliases:
+  - Thermal comfort satisfaction
+  - PMV
+  - UTCI
+challenges:
+  - "[[Worker comfort and well-being]]"
+  - "[[Outdoor microclimate around logistics buildings]]"
+auto_case_studies:
+  - "[[Adam Večeřa]]"
+auto_tools:
+  - "[[Eddy3D]]"
+  - "[[Honeybee]]"
+  - "[[Ladybug]]"
+  - "[[Pollination]]"
+---
+
+## What it measures
+
+Whether people are thermally comfortable inside and outside the building.
+
+## Calculation
+
+Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data.

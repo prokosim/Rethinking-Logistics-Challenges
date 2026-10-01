@@ -1,0 +1,25 @@
+---
+category: Biodiversity
+unit: qualitative (connected / not connected)
+calculation: Mapping whether site greenery links to nearby corridors, water bodies and habitats (distance and continuity of green links).
+origin: student
+status: draft
+aliases:
+  - Ecological corridor connectivity
+  - Wildlife corridor connectivity
+  - Ecological land use
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+auto_case_studies:
+  - "[[Adam Večeřa]]"
+  - "[[Ece Yasar]]"
+auto_tools: []
+---
+
+## What it measures
+
+Whether wildlife can move through the site — logistics sites and roads often cut corridors.
+
+## Calculation
+
+Mapping whether site greenery links to nearby corridors, water bodies and habitats (distance and continuity of green links).

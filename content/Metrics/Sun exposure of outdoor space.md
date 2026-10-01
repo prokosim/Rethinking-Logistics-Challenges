@@ -1,0 +1,28 @@
+---
+category: Comfort
+unit: "% of area or hours of direct sun"
+calculation: Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice).
+origin: student
+status: draft
+aliases:
+  - Solar exposure
+  - Shaded public space coverage
+  - Shaded outdoor space for employees
+  - Sunlight hours
+challenges:
+  - "[[Outdoor microclimate around logistics buildings]]"
+auto_case_studies:
+  - "[[Ece Yasar]]"
+  - "[[Marek Nový]]"
+auto_tools:
+  - "[[Cyclops]]"
+  - "[[Ladybug]]"
+---
+
+## What it measures
+
+Whether outdoor spaces get sun in winter and shade in summer.
+
+## Calculation
+
+Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice).

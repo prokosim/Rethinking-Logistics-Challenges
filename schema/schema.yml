@@ -1,0 +1,81 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Rethinking Logistics Challenges — structure of the knowledge base
+#
+# The folder decides the type of a note. There are no IDs and no lists of
+# allowed values: any value you type in Obsidian is accepted.
+#
+# Relations
+#   You enter a link ONCE, on the "source" side (e.g. tools on a Case study).
+#   `npm run sync` (and GitHub on every push) writes the reverse link into the
+#   other note, in a property starting with "auto_". Never edit auto_ fields by
+#   hand — they are rewritten on every sync.
+# ─────────────────────────────────────────────────────────────────────────────
+
+types:
+  challenge:
+    folder: Challenges
+    label: Challenge
+    plural: Challenges
+    description: A design challenge tackled with evidence-based design.
+    fields: [category, status, aliases]
+
+  metric:
+    folder: Metrics
+    label: Metric
+    plural: Metrics
+    description: A measurable indicator (students often call it a KPI) used as evidence for a design decision.
+    fields: [category, unit, calculation, origin, standard, status, aliases]
+
+  tool:
+    folder: Tools
+    label: Tool
+    plural: Tools
+    description: Software (mainly Rhino/Grasshopper, but not only) used to calculate metrics.
+    fields: [platform, category, developer, url, license, status, aliases]
+
+  case-study:
+    folder: Case studies
+    label: Case study
+    plural: Case studies
+    description: A student project from the Rethinking.Logistics studio showing how tools deliver metrics for decisions.
+    fields: [student, project, portfolio, studio, year, location, typology, status, aliases]
+
+# Relations: `field` on `from` is typed by people; `auto` on `to` is written by the sync script.
+relations:
+  - from: case-study
+    field: challenges
+    to: challenge
+    auto: auto_case_studies
+    label: Challenges addressed
+    auto_label: Case studies
+  - from: case-study
+    field: metrics
+    to: metric
+    auto: auto_case_studies
+    label: Metrics used
+    auto_label: Used in case studies
+  - from: case-study
+    field: tools
+    to: tool
+    auto: auto_case_studies
+    label: Tools used
+    auto_label: Used in case studies
+  - from: tool
+    field: metrics
+    to: metric
+    auto: auto_tools
+    label: Metrics it can calculate
+    auto_label: Tools that can calculate it
+  - from: metric
+    field: challenges
+    to: challenge
+    auto: auto_metrics
+    label: Informs decisions on
+    auto_label: Metrics
+
+# Derived (two-step) relations, also written by the sync script.
+derived:
+  - on: challenge
+    auto: auto_tools
+    label: Tools (via metrics)
+    path: [auto_metrics, auto_tools]
