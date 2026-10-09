@@ -21,7 +21,7 @@ metrics:
   - "[[Jobs created]]"
 tools: []
 ---
-
+![[Pasted image 20261009095612.png]]
 ## Project
 
 The project starts from Prague's e-commerce logistics, where large fulfilment centres on the city edge feed fragmented, duplicated last-mile routes and a growing number of parcel lockers. Using India's Blinkit quick-commerce 'dark store' model as reference, it proposes a decentralised network of twelve neighbourhood microhubs, each serving a radius of about 2–3 km, sited by population density. A modular 'Urban Logistic PlugIn' unit (storage box with pickup counter, stackable and joinable, with solar roof, planter, bench and wiring) is adapted to two housing typologies: in the compact historic centre it is a small pavilion cluster linked to underground parking/delivery levels, and in panelák estates it becomes a market-and-hub cluster that activates underused open space. Urban, greenery and energy KPIs are proposed to measure social use, green space and solar contribution before and after.
