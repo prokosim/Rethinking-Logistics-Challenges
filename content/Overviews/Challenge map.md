@@ -119,12 +119,12 @@ From each design challenge to the metrics that inform the decision, the tools th
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
 | [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |
-| [[Pedestrian-level wind speed]] | CFD simulation of wind around the buildings at about 1.5 m height for prevailing wind directions; compared with comfort criteria (e.g. Lawson). | [[Butterfly]], [[Eddy3D]] | 1 |
-| [[Sun exposure of outdoor space]] | Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice). | [[Cyclops]], [[Ladybug]] | 2 |
-| [[Thermal comfort]] | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Ladybug]], [[Pollination]] | 1 |
+| [[Pedestrian-level wind speed]] | CFD simulation of wind around the buildings at about 1.5 m height for prevailing wind directions; compared with comfort criteria (e.g. Lawson). | [[Butterfly]], [[Eddy3D]], [[Jifto]] | 1 |
+| [[Sun exposure of outdoor space]] | Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice). | [[Cyclops]], [[Jifto]], [[Ladybug]] | 2 |
+| [[Thermal comfort]] | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Jifto]], [[Ladybug]], [[Pollination]] | 1 |
 | [[Tree count and canopy cover]] | Number of trees (or crown area) on site ÷ site area; compared before and after the design. | [[Lands Design]] | 3 |
 | [[Urban heat island effect]] | Surface or air temperature difference to a rural reference, simulated or from satellite maps. | [[Dragonfly]] | 2 |
-| [[Wind conditions]] | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Ladybug]] | 2 |
+| [[Wind conditions]] | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Jifto]], [[Ladybug]] | 2 |
 
 **Case studies:** [[Julia Kopác]], [[Robin Jesenský]], [[Sara Sulollari]]
 
@@ -198,7 +198,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | --- | --- | --- | --- |
 | [[Distance to housing]] | Distance from noisy or hazardous logistics functions to the nearest residential building; or share of such functions outside a buffer zone. | [[Geoportal Praha]], [[Grasshopper]] | 3 |
 | [[Social acceptance]] | Resident and user survey, or qualitative assessment, of whether the logistics activity is perceived as a benefit rather than a nuisance. | — | 2 |
-| [[Visual impact on neighbours]] | Share of the view from neighbouring windows obstructed by the building, or share of the built perimeter visually screened (by greenery or design). | [[Ladybug]] | 7 |
+| [[Visual impact on neighbours]] | Share of the view from neighbouring windows obstructed by the building, or share of the built perimeter visually screened (by greenery or design). | [[Jifto]], [[Ladybug]] | 7 |
 
 **Case studies:** [[Ece Yasar]], [[Elsa Hauksdottir]], [[Katrin Rybinskiy]]
 
@@ -211,7 +211,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Power usage effectiveness]] | Total facility energy ÷ energy used by the IT equipment. 1.0 would mean zero overhead for cooling and power distribution. | — | 2 |
 | [[Waste heat recovery]] | Heat produced by IT or process load × recoverable share (e.g. 80 %), compared with the heat demand of nearby users. | [[nPro]] | 2 |
 | [[Water consumption]] | Metered or estimated annual water use; for data centres often normalised per kWh of IT energy (WUE). | — | 2 |
-| [[Wind conditions]] | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Ladybug]] | 2 |
+| [[Wind conditions]] | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Jifto]], [[Ladybug]] | 2 |
 
 **Case studies:** [[Julia Godard Lombard]], [[Katrin Rybinskiy]], [[Robin Jesenský]]
 
@@ -223,7 +223,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Indoor air quality]] | Indoor CO2 concentration as a proxy for ventilation quality; target e.g. below 900 ppm. | — | 1 |
 | [[Natural ventilation potential]] | Share of floor area (or hours) that can be ventilated naturally, based on opening area, depth and climate. | [[Butterfly]] | 1 |
 | [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |
-| [[Thermal comfort]] | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Ladybug]], [[Pollination]] | 1 |
+| [[Thermal comfort]] | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Jifto]], [[Ladybug]], [[Pollination]] | 1 |
 | [[Worker safety incidents]] | Recorded incidents per year (or hazard zones per layout) in operational areas. | — | 3 |
 | [[Worker well-being]] | Post-occupancy survey or checklist score of daylight, views, rest areas, greenery and facilities for workers. | — | 4 |
 

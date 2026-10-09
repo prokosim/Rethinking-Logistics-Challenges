@@ -20,6 +20,7 @@ auto_tools:
   - "[[Eddy3D]]"
   - "[[Geoportal Praha]]"
   - "[[Honeybee]]"
+  - "[[Jifto]]"
   - "[[Ladybug]]"
   - "[[Lands Design]]"
   - "[[Pollination]]"

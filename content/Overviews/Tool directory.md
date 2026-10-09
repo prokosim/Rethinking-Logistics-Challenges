@@ -6,13 +6,14 @@ description: "Tools by category, what they calculate and where they were used."
 > [!abstract] Generated page
 > Tools by category, what they calculate and where they were used. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
 
-**25 tools.** *Used in* counts the case studies in which the tool was actually used.
+**26 tools.** *Used in* counts the case studies in which the tool was actually used.
 
 ## Climate & solar analysis
 
 | Tool | Platform | Metrics it can calculate | Used in |
 | --- | --- | --- | --- |
 | [[Cyclops]] | Rhino/Grasshopper | [[Sun exposure of outdoor space]], [[Rooftop PV generation]] | — |
+| [[Jifto]] | Rhino | [[Sun exposure of outdoor space]], [[Wind conditions]], [[Pedestrian-level wind speed]], [[Thermal comfort]], [[Visual impact on neighbours]] | — |
 | [[Ladybug]] | Rhino/Grasshopper | [[Rooftop PV generation]], [[Sun exposure of outdoor space]], [[Wind conditions]], [[Thermal comfort]], [[Visual impact on neighbours]] | [[Robin Jesenský]], [[Sara Sulollari]] |
 
 ## Data & mapping
@@ -62,7 +63,7 @@ description: "Tools by category, what they calculate and where they were used."
 
 | Tool | Platform | Metrics it can calculate | Used in |
 | --- | --- | --- | --- |
-| [[Grasshopper]] | Rhino/Grasshopper | [[Land take]], [[Distance to housing]], [[Impervious surface ratio]], [[Green area ratio]], [[Green roof coverage]], [[Biotope area factor]], [[Publicly accessible area]], [[Space utilisation]] | [[Adam Večeřa]], [[Hynek Hrabík]], [[Lindsay Daphne Macuja]], [[Natalie Žižková]], [[Robin Jesenský]], [[Sara Sulollari]] |
+| [[Grasshopper]] | Rhino/Grasshopper | [[Land take]], [[Distance to housing]], [[Impervious surface ratio]], [[Green area ratio]], [[Green roof coverage]], [[Biotope area factor]], [[Publicly accessible area]], [[Space utilisation]] | [[Adam Večeřa]], [[Hynek Hrabík]], [[Lindsay Daphne Macuja]], [[Natalie Žižková]], [[Robin Jesenský]], [[Roshni Basu]], [[Sara Sulollari]] |
 
 ## Structure
 

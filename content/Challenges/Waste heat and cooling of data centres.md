@@ -14,6 +14,7 @@ auto_metrics:
   - "[[Wind conditions]]"
 auto_tools:
   - "[[Eddy3D]]"
+  - "[[Jifto]]"
   - "[[Ladybug]]"
   - "[[nPro]]"
 ---

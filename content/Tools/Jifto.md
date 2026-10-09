@@ -12,6 +12,7 @@ metrics:
   - "[[Pedestrian-level wind speed]]"
   - "[[Thermal comfort]]"
   - "[[Visual impact on neighbours]]"
+auto_case_studies: []
 ---
 
 ## What it does

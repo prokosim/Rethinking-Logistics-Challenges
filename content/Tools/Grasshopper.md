@@ -21,6 +21,7 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Natalie Žižková]]"
   - "[[Robin Jesenský]]"
+  - "[[Roshni Basu]]"
   - "[[Sara Sulollari]]"
 ---
 

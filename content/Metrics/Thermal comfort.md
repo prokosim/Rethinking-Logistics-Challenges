@@ -17,6 +17,7 @@ auto_case_studies:
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Honeybee]]"
+  - "[[Jifto]]"
   - "[[Ladybug]]"
   - "[[Pollination]]"
 ---

@@ -16,6 +16,7 @@ auto_case_studies:
   - "[[Marek Nový]]"
 auto_tools:
   - "[[Cyclops]]"
+  - "[[Jifto]]"
   - "[[Ladybug]]"
 ---
 

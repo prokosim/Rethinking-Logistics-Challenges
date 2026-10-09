@@ -12,6 +12,7 @@ auto_metrics:
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"
+  - "[[Jifto]]"
   - "[[Ladybug]]"
 ---
 

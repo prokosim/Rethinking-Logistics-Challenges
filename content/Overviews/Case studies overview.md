@@ -26,7 +26,7 @@ description: "All student projects at a glance, and which tools they used."
 | [[Marek Nový]] | Visible Industry | Otovice, Karlovy Vary, Czech Republic (field between the village centre, existing industrial halls and ponds) | mixed industrial–logistics district: large warehouses, medium workshops and small shops/cafés along a public 'productive promenade' | — | 10 |
 | [[Natalie Žižková]] | Invisible Logistics (strategy: CCC / 3C Method – Conceal, Connect, Coexist) | McKenna Logistics, 1260 Lakeshore Rd E, Lakeview Village, Mississauga, Ontario, Canada | existing 3PL distribution centre / logistics hub retrofitted with mixed-use (offices, insurance, physiotherapy) in a regenerating residential district | [[Grasshopper]], [[Galapagos]] | 10 |
 | [[Robin Jesenský]] | Hybrid Cooling Data Center – Hybrid Air & Liquid Efficiency Cooling Structure (HALECS) | Grindavík, Reykjanes peninsula, Iceland (wind data from Keflavík International Airport) | data centre (modular, passively wind-cooled) | [[Ladybug]], [[Grasshopper]] | 5 |
-| [[Roshni Basu]] | The Urban PlugIn | Prague, Czech Republic – city-wide network of 12 microhubs; design integration shown at Jan Palach Square (compact historic centre) and in a panelák housing estate | urban micro-hub / dark-store network (modular last-mile pavilions) | — | 6 |
+| [[Roshni Basu]] | The Urban PlugIn | Prague, Czech Republic – city-wide network of 12 microhubs; design integration shown at Jan Palach Square (compact historic centre) and in a panelák housing estate | urban micro-hub / dark-store network (modular last-mile pavilions) | [[Grasshopper]] | 6 |
 | [[Sara Gani]] | Infrastructure as Landscape, Where Logistics Meets Life (portfolio itself is titled only 'Portfolio') | Pivoňská, Praha 14 (Černý Most area), Prague; case-study site: Wakestone Logistics, Tuchoměřice–Středokluky near Prague Airport / R7 | storage and distribution warehouse (pallet / high-bay storage) with offices, café/shop and public park, relocated next to a residential area | — | 14 |
 | [[Sara Sulollari]] | Wind Rós | Eimskip site, Sundabakki 2, Sundahöfn harbour, Reykjavík, Iceland | port logistics building (container terminal warehouse) adapted with courtyard extension and a wind-buffer wall of reused shipping containers | [[Eddy3D]], [[Grasshopper]], [[Ladybug]] | 6 |
 | [[Thomas Olsen]] | The Reincarnation of Logistics – Adaptive Reuse for Urban Last-Mile Distribution | Post-industrial district of Prague 9 (abandoned industrial building between railway and main tram street), Prague | urban last-mile logistics hub in an adaptively reused industrial building (truck inbound, EV outbound) with public plaza | — | 4 |
@@ -36,7 +36,7 @@ description: "All student projects at a glance, and which tools they used."
 
 | Tool | Case studies |
 | --- | --- |
-| [[Grasshopper]] | 6 |
+| [[Grasshopper]] | 7 |
 | [[Ladybug]] | 2 |
 | [[One Click LCA]] | 2 |
 | [[AutoTURN]] | 1 |
@@ -45,4 +45,4 @@ description: "All student projects at a glance, and which tools they used."
 | [[Geoportal Praha]] | 1 |
 | [[Kangaroo]] | 1 |
 
-Case studies without any linked tool: **15 of 23** — their metrics were estimated by hand, taken from literature, or not quantified.
+Case studies without any linked tool: **14 of 23** — their metrics were estimated by hand, taken from literature, or not quantified.

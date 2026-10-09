@@ -15,6 +15,7 @@ auto_case_studies:
 auto_tools:
   - "[[Butterfly]]"
   - "[[Eddy3D]]"
+  - "[[Jifto]]"
 ---
 
 ## What it measures

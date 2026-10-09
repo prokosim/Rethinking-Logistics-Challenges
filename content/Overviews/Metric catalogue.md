@@ -46,11 +46,11 @@ description: "All metrics with their unit and calculation method."
 | [[Indoor air quality]] | ppm CO2 | Indoor CO2 concentration as a proxy for ventilation quality; target e.g. below 900 ppm. | — | 1 | standard · WELL |
 | [[Natural ventilation potential]] | % of floor area / hours | Share of floor area (or hours) that can be ventilated naturally, based on opening area, depth and climate. | [[Butterfly]] | 1 | adapted |
 | [[Noise level]] | dB(A) | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 | student |
-| [[Pedestrian-level wind speed]] | m/s | CFD simulation of wind around the buildings at about 1.5 m height for prevailing wind directions; compared with comfort criteria (e.g. Lawson). | [[Butterfly]], [[Eddy3D]] | 1 | adapted · Lawson criteria |
-| [[Sun exposure of outdoor space]] | % of area or hours of direct sun | Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice). | [[Cyclops]], [[Ladybug]] | 2 | student |
-| [[Thermal comfort]] | PMV / UTCI / % in comfort zone | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Ladybug]], [[Pollination]] | 1 | standard · EN 16798 / ASHRAE 55 |
+| [[Pedestrian-level wind speed]] | m/s | CFD simulation of wind around the buildings at about 1.5 m height for prevailing wind directions; compared with comfort criteria (e.g. Lawson). | [[Butterfly]], [[Eddy3D]], [[Jifto]] | 1 | adapted · Lawson criteria |
+| [[Sun exposure of outdoor space]] | % of area or hours of direct sun | Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice). | [[Cyclops]], [[Jifto]], [[Ladybug]] | 2 | student |
+| [[Thermal comfort]] | PMV / UTCI / % in comfort zone | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Jifto]], [[Ladybug]], [[Pollination]] | 1 | standard · EN 16798 / ASHRAE 55 |
 | [[Urban heat island effect]] | °C above reference | Surface or air temperature difference to a rural reference, simulated or from satellite maps. | [[Dragonfly]] | 2 | student |
-| [[Wind conditions]] | m/s and % of hours by direction | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Ladybug]] | 2 | standard |
+| [[Wind conditions]] | m/s and % of hours by direction | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Jifto]], [[Ladybug]] | 2 | standard |
 | [[Worker well-being]] | score / % satisfied | Post-occupancy survey or checklist score of daylight, views, rest areas, greenery and facilities for workers. | — | 4 | student |
 
 ## Economy
@@ -119,7 +119,7 @@ description: "All metrics with their unit and calculation method."
 | [[Publicly accessible area]] | m² or % of site | Area freely open to the public (plazas, parks, roofs, ground-floor uses) ÷ site area. | [[Grasshopper]] | 8 | student |
 | [[Social acceptance]] | qualitative / survey score | Resident and user survey, or qualitative assessment, of whether the logistics activity is perceived as a benefit rather than a nuisance. | — | 2 | student |
 | [[Social interaction index]] | users/day | Observed or estimated number of people using the public spaces of the project per day. | — | 3 | student |
-| [[Visual impact on neighbours]] | % of view obstructed / screened | Share of the view from neighbouring windows obstructed by the building, or share of the built perimeter visually screened (by greenery or design). | [[Ladybug]] | 7 | student |
+| [[Visual impact on neighbours]] | % of view obstructed / screened | Share of the view from neighbouring windows obstructed by the building, or share of the built perimeter visually screened (by greenery or design). | [[Jifto]], [[Ladybug]] | 7 | student |
 
 ## Structure
 

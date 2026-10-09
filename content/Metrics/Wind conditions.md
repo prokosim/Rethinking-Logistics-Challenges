@@ -17,6 +17,7 @@ auto_case_studies:
   - "[[Sara Sulollari]]"
 auto_tools:
   - "[[Eddy3D]]"
+  - "[[Jifto]]"
   - "[[Ladybug]]"
 ---
 

@@ -22,6 +22,7 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
 auto_tools:
+  - "[[Jifto]]"
   - "[[Ladybug]]"
 ---
 

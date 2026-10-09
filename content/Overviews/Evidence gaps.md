@@ -56,6 +56,7 @@ These were estimated by hand, taken from literature or left unquantified. Each o
 - [[Donkey]] — can calculate: [[Structural utilisation]]
 - [[Dragonfly]] — can calculate: [[Energy use intensity]], [[Rooftop PV generation]], [[On-site renewable energy share]], [[Urban heat island effect]], [[Operational carbon]]
 - [[Honeybee]] — can calculate: [[Energy use intensity]], [[Heating energy demand]], [[Daylight autonomy]], [[Thermal comfort]], [[Rooftop PV generation]], [[Operational carbon]]
+- [[Jifto]] — can calculate: [[Sun exposure of outdoor space]], [[Wind conditions]], [[Pedestrian-level wind speed]], [[Thermal comfort]], [[Visual impact on neighbours]]
 - [[Karamba3D]] — can calculate: [[Structural utilisation]]
 - [[Lands Design]] — can calculate: [[Tree count and canopy cover]], [[Green area ratio]]
 - [[LearnCarbon]] — can calculate: [[Embodied carbon intensity]]
