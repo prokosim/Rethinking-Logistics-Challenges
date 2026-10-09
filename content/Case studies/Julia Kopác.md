@@ -1,12 +1,12 @@
 ---
 student: Julia Kopác
 project: Bridging Logistics
-portfolio: "https://heyzine.com/flip-book/b92ed2a571.html"
+portfolio: https://heyzine.com/flip-book/b92ed2a571.html
 studio: AD4 (Kurilla - Prokop Studio)
 year: 2026
-location: "Business Park Zličín, Prague (main site); also applied to CTPark Prague Airport, CTPark Prague North and Caravan Metropol, Klíčany-Vodochody"
+location: Business Park Zličín, Prague (main site); also applied to CTPark Prague Airport, CTPark Prague North and Caravan Metropol, Klíčany-Vodochody
 typology: modular multi-tenant storage warehouse bridging a highway (automated container storage, with crossing / ecoduct and retail-warehouse modules)
-status: draft
+status: verified
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"
@@ -22,7 +22,7 @@ metrics:
   - "[[Construction cost]]"
 tools: []
 ---
-
+![[Pasted image 20261009101237.png]]
 ## Project
 
 An analysis of four logistics parks on the edge of Prague showed warehouses sitting next to residential areas, cut off by highways, exposed to traffic noise of up to about 75 dB and occupying land that could be green space. The project proposes lifting warehouses on top of highway cuttings so that the building itself acts as a noise barrier and the freed ground becomes continuous greenery and pedestrian routes. Three structural options (Pratt truss, arch, tied arch) were compared and an arch-truss hybrid module was chosen for heavy, dynamic warehouse loads. The modular system combines warehouse, retail-warehouse and crossing modules (pedestrian/bike bridge or ecoduct), with truck traffic placed on the far side of the highway, and is tested on Zličín and three other sites.

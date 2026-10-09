@@ -1,12 +1,12 @@
 ---
 student: Sara Sulollari
 project: Wind Rós
-portfolio: "https://heyzine.com/flip-book/a7dde90411.html"
+portfolio: https://heyzine.com/flip-book/a7dde90411.html
 studio: AD4
 year: 2026
 location: Eimskip site, Sundabakki 2, Sundahöfn harbour, Reykjavík, Iceland
 typology: port logistics building (container terminal warehouse) adapted with courtyard extension and a wind-buffer wall of reused shipping containers
-status: draft
+status: verified
 aliases: []
 challenges:
   - "[[Outdoor microclimate around logistics buildings]]"
@@ -24,7 +24,7 @@ tools:
   - "[[Grasshopper]]"
   - "[[Ladybug]]"
 ---
-
+![[Pasted image 20261009101110.png]]
 ## Project
 
 The Eimskip harbour site in Reykjavík is a closed industrial waterfront where strong sea winds, truck traffic along the quay and large buildings make the area uncomfortable and cut it off from the city; Iceland also has no rules on pedestrian-level wind comfort. Using local wind data, the student compares container layouts (linear, softened corner, U-shape) in wind simulations and chooses a U-shaped wall of reused shipping containers as a wind buffer facing the prevailing easterly winds. The existing logistics building is reworked with a perimeter extension around a sheltered workers' courtyard, and the container wall holds coffee kiosks, rest areas, small workspaces and viewing platforms that open the waterfront to the public.

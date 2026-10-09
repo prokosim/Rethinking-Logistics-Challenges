@@ -1,12 +1,12 @@
 ---
 student: Hynek Hrabík
 project: Flow-through logistics
-portfolio: "https://scanned.page/n5qCOH"
+portfolio: https://scanned.page/n5qCOH
 studio: AD2
 year: 2026
-location: "PPL central parcel hub, Hradec Králové, Czech Republic (as labelled in the portfolio; the questionnaire names PPL in Pardubice)"
+location: PPL central parcel hub, Hradec Králové, Czech Republic (as labelled in the portfolio; the questionnaire names PPL in Pardubice)
 typology: Parcel cross-dock / automated e-commerce sorting hub (hub-and-spoke network, PPL as DHL subsidiary)
-status: draft
+status: verified
 aliases: []
 challenges:
   - "[[Truck flow and yard efficiency]]"
@@ -31,7 +31,7 @@ tools:
   - "[[Kangaroo]]"
   - "[[Grasshopper]]"
 ---
-
+![[Pasted image 20261009102125.png]]
 ## Project
 
 The project targets the truck manoeuvring apron of logistics hubs. A standard 16.5 m articulated truck needs about 30–40 m of clear apron depth, and these aprons take roughly 30–40% of total site area. The proposed flow-through configuration has trucks enter a corridor, switch lanes to line up with a bay, reverse briefly to dock and leave forward. Faster dock cycles let fewer docks handle the same throughput. Cargo moves between bays and the sorting hall through shallow underground tunnels (or overhead conveyors). Bay geometry was validated with swept-path analysis, which led to larger bays and a folding ramp. A discrete-event simulation showed that 40 flow-through docks match 60 conventional docks. The corridors are roofed with catenary concrete arches form-found in Rhino/Kangaroo, carrying metal roof panels with a sedum top. Applied to the PPL hub, the concept removes 20 docks and cuts paved surface by about 30%, from 18,000 to 13,000 m², freeing land for greenery and ponds.

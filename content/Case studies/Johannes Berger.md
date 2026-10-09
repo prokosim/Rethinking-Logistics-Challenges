@@ -1,12 +1,12 @@
 ---
 student: Johannes Berger
 project: "Not titled; sections 'The problem with trucks', 'Drones: the solution' and 'Old vs. new crossdock' (research question in questionnaire: 'What if there were no trucks?')"
-portfolio: "https://heyzine.com/flip-book/36c8679dd2.html"
+portfolio: https://heyzine.com/flip-book/36c8679dd2.html
 studio: AD2
 year: 2026
-location: "Not stated in portfolio; questionnaire names case studies DHL Poznań (Poland) and Tracker AS (Norway)"
+location: Not stated in portfolio; questionnaire names case studies DHL Poznań (Poland) and Tracker AS (Norway)
 typology: Drone-tailored cross-dock / vertical drone logistics warehouse (tower)
-status: draft
+status: verified
 aliases: []
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
@@ -22,7 +22,7 @@ metrics:
   - "[[Level of automation]]"
 tools: []
 ---
-
+![[Pasted image 20261009102848.png]]
 ## Project
 
 The project questions road freight dominance. Its case is that trucks carry a minority of global freight but emit most transport emissions, wear roads heavily, need drivers and fit badly in dense cities. It proposes replacing trucks with a drone-based supply chain in three phases. First, a traditional warehouse with truck delivery, the status quo. Second, a traditional warehouse with drone delivery, for faster, cheaper deliveries and less congested roads. Third, a drone-tailored, compact, cylindrical or vertical warehouse with drone delivery, for lower land use and lower building OpEx. The final spread compares massing of an existing low, sprawling cross-dock with a new cross-dock of two towers linked by a long elevated deck. The questionnaire adds plans for public space spiralling around the tower and an interest in reusing existing infrastructure.

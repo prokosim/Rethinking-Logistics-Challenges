@@ -1,12 +1,12 @@
 ---
 student: Roshni Basu
 project: The Urban PlugIn
-portfolio: "https://heyzine.com/flip-book/c8d3453076.html"
-studio: not stated
+portfolio: https://heyzine.com/flip-book/c8d3453076.html
+studio: Kurilla-Prokop
 year: 2026
-location: "Prague, Czech Republic – city-wide network of 12 microhubs; design integration shown at Jan Palach Square (compact historic centre) and in a panelák housing estate"
+location: Prague, Czech Republic – city-wide network of 12 microhubs; design integration shown at Jan Palach Square (compact historic centre) and in a panelák housing estate
 typology: urban micro-hub / dark-store network (modular last-mile pavilions)
-status: draft
+status: verified
 aliases: []
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
@@ -19,7 +19,8 @@ metrics:
   - "[[Rooftop PV generation]]"
   - "[[Delivery catchment]]"
   - "[[Jobs created]]"
-tools: []
+tools:
+  - "[[Grasshopper]]"
 ---
 ![[Pasted image 20261009095612.png]]
 ## Project

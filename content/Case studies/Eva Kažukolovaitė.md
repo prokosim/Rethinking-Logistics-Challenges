@@ -1,12 +1,12 @@
 ---
 student: Eva Kažukolovaitė
-project: "portfolio – Rethinking Logistics (untitled; reconsideration of the Anděl Cycle Depot micro-hub as a modular timber pavilion)"
-portfolio: "https://heyzine.com/flip-book/e483d16c05.html"
+project: portfolio – Rethinking Logistics (untitled; reconsideration of the Anděl Cycle Depot micro-hub as a modular timber pavilion)
+portfolio: https://heyzine.com/flip-book/e483d16c05.html
 studio: AD4
 year: 2026
 location: Anděl Cycle Depot, under the road bridge near Anděl / Nový Smíchov, Prague 5 (Smíchov)
 typology: urban last-mile cargo-bike micro-hub (cross-dock pavilion of modular timber units) with worker facilities, parcel lockers and public edge
-status: draft
+status: verified
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"
@@ -23,7 +23,7 @@ metrics:
   - "[[Worker well-being]]"
 tools: []
 ---
-
+![[Pasted image 20261009100946.png]]
 ## Project
 
 The project takes an existing, operating micro-hub in Prague – the Anděl Cycle Depot, where goods move from vans to cargo bikes for Smíchov – which works operationally but sits as temporary containers under a bridge, with noise, van–bike–pedestrian conflicts, poor worker conditions and an unused green strip. It replaces the containers with an adaptable system of precast timber-frame modules (a 7 × 2.5 × 3 m service module and a 6 × 2.8 × 3.2 m human module) with interchangeable façade panels (timber, transparent, mesh for vegetation, perforated metal, metal, reflective). Service modules are arranged in a cross-dock layout that separates incoming vans from outgoing cargo bikes, the vehicle entrance is moved to avoid pedestrian collisions, and a worker module provides rest, kitchen, changing and sanitary space. A 'responsive edge' fence changes with its context – acoustic towards the road, parcel lockers on the sidewalk, seating and play at the public interface, planting towards a new wetland park.
