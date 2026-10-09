@@ -6,7 +6,6 @@ auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Roshni Basu]]"
   - "[[Thomas Olsen]]"
-  - "[[Eva Kažukolovaitė]]"
 auto_metrics:
   - "[[Delivery catchment]]"
   - "[[Delivery time]]"
